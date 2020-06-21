@@ -105,6 +105,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+turo_env/
 
 # Spyder project settings
 .spyderproject
@@ -123,3 +124,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Credentials
+*.json
